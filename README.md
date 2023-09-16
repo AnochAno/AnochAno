@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying at **University of Kelaniya**
 
-- 🌱 I’m currently learning **React, Nodejs and .NET**
+- 🌱 I’m currently learning **React, Flutter and .NET**
 
 - 👯 I’m looking to collaborate on [insitute_Management_Web](https://github.com/AnochAno/insitute_Management_Web)
 
