@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying at **University of Kelaniya**
 
-- 🌱 I’m currently learning **React, Flutter and .NET**
+- 🌱 I’m currently learning **React, Python and .NET**
 
 - 📫 How to reach me **anojant-et19005@stu.kln.ac.lk**
 
