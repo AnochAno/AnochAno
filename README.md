@@ -1,5 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Thankeswaran Anojan</h1>
-<h4 align ="center"> வணக்கம்</h4>
+<h1 align="center">Hello there 👋, I'm Thankeswaran Anojan</h1> br <h4 align ="center"> வணக்கம்</h4>
 <h3 align="center">A passionate Software developer from SriLanka</h3>
 
 
