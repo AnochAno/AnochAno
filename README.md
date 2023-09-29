@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anochano&label=Profile%20views&color=0e75b6&style=flat" alt="anochano" /> </p>
 
-- 🌱 I’m currently learning **React, Nodejs and .NET**
+- 🌱 I’m currently learning **React, Nodejs, Python and .NET**
 
 - 📫 How to reach me **anojant-et19005@stu.kln.ac.lk**
 
