@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React, Nodejs and .NET**
 
-- 👯 I’m looking to collaborate on [insitute_Management_Web](https://github.com/AnochAno/insitute_Management_Web)
-
 - 📫 How to reach me **anojant-et19005@stu.kln.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
